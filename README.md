@@ -1,4 +1,4 @@
-# "By the great winds, I come." Classic Balance Druid Theorycraft Spreadsheet v1.6
+# "By the great winds, I come." Classic Balance Druid Theorycraft Spreadsheet v1.8
 
 ![Image](assets/maintitle.jpg)
 
