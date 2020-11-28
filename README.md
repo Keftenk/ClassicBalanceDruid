@@ -1,4 +1,6 @@
+<p align='center'>
 ![Image](Images/moonkin_banner.png)
+</p>
 
 # "By the great winds, I come." Classic Balance Druid Spreadsheet v1.8
 
