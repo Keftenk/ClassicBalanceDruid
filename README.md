@@ -1,7 +1,7 @@
 ![Image](Images/moonkin_banner.png)
 
 # "By the great winds, I come."
-# Classic Balance Druid Theorycraft Spreadsheet v1.8
+Classic Balance Druid Theorycraft Spreadsheet v1.8
 
 <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
