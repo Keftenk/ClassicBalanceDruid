@@ -1,8 +1,6 @@
 ![Image](Images/moonkin_banner.png)
 
-<p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
-</p>
+# "By the great winds, I come." Classic Balance Druid Theorycraft Spreadsheet v1.6
 
 <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
