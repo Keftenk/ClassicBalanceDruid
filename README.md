@@ -3,8 +3,8 @@
 # "By the great winds, I come." Classic Balance Druid Spreadsheet v1.8
 
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="30" src="Images/MoonfireIcon.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_waylonwalker"><img height="30" src="Images/Paypal.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/waylonwalker"><img height="30" src="Images/moonfireicon.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_waylonwalker"><img height="30" src="Images/paypalicon.png"></a>&nbsp;&nbsp;
 </p>
 
 
