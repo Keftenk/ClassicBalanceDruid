@@ -9,7 +9,29 @@
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><img height="30" src="Images/paypalicon.png"></a>&nbsp;&nbsp;
 </p>
 
+# Release It! 🚀
 
+🚀 Generic CLI tool to automate versioning and package publishing related tasks:
+
+<img align="right" src="./docs/assets/release-it.gif?raw=true" height="280">
+
+- Execute test & build commands
+- Bump version (in e.g. `package.json`)
+- [Git commit, tag, push](#git)
+- [Create release at GitHub](#github-releases) or [GitLab](#gitlab-releases)
+- [Generate changelog](#changelog)
+- [Publish to npm](#publish-to-npm)
+- [Manage pre-releases](#manage-pre-releases)
+- [Hooks](#hooks)
+- Extend with [plugins](#plugins)
+- Release from any [CI/CD environment](./docs/ci.md)
+
+Use release-it for version management and publish to anywhere with its versatile configuration, a powerful plugin
+system, and use hooks to execute any command you need to test, build, and/or publish your project.
+
+[![Action Status](https://github.com/release-it/release-it/workflows/Cross-OS%20Tests/badge.svg)](https://github.com/release-it/release-it/actions)
+[![npm version](https://badge.fury.io/js/release-it.svg)](https://www.npmjs.com/package/release-it)
+[![codecov](https://codecov.io/gh/release-it/release-it/branch/master/graph/badge.svg)](https://codecov.io/gh/release-it/release-it)
 
 
 Hey there 👋,
