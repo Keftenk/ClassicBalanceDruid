@@ -4,6 +4,7 @@
 
 # "By the great winds, I come." Classic Balance Druid Spreadsheet v1.8
 
+
 <p align='center'>
 <a href="https://kmmiles.gitlab.io/moonkin-calc/"><img height="30" src="Images/moonfireicon.png"></a>&nbsp;&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><img height="30" src="Images/paypalicon.png"></a>&nbsp;&nbsp;
