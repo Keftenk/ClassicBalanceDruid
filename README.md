@@ -1,12 +1,12 @@
 <p align='center'>
-<img src="Images/moonkin_banner.png">
+<a href="https://github.com/Keftenk/ClassicBalanceDruid/"><img src="Images/moonkin_banner.png">
 </p>
 
 # "By the great winds, I come." Classic Balance Druid Spreadsheet v1.8
 
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="30" src="Images/moonfireicon.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_waylonwalker"><img height="30" src="Images/paypalicon.png"></a>&nbsp;&nbsp;
+<a href="https://kmmiles.gitlab.io/moonkin-calc/"><img height="30" src="Images/moonfireicon.png"></a>&nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><img height="30" src="Images/paypalicon.png"></a>&nbsp;&nbsp;
 </p>
 
 
