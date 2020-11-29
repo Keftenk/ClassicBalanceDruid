@@ -83,6 +83,6 @@ This feature of the tool is extremely powerful, but is easily the most miss appr
 
 - If you wish to optimize for a trash rotation then you will want to make sure <b>Boss?</b> is checked as <b>No</b>
 
-Be warned that the optimization will take an exceedingly long time to give you an accurate trinket-swap rotation. The longer the duration and the more trinkets selected will increase the permutations needing to be calculated through the macro. This can take upwards of 45 to 60 minutes to complete.
+Please understand that the optimization will take an exceedingly long time to generate an accurate trinket-swap rotation. The longer the duration and the more trinkets selected will increase the permutations needing to be calculated through the macro. This can take upwards of 45 to 60 minutes to complete.
 
   ---
