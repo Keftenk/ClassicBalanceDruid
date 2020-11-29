@@ -70,16 +70,6 @@ The spreadsheet also comes equipped with a rough estimation of the DPS that you 
 
 This feature of the tool is extremely powerful, but is easily the most miss appropriated function of the entire sheet. As a summary the optimization done in this worksheet will allow you to optimize for specific duration fights, such as a raid boss, or even optimize a trinket rotation for a given duration for trash monsters. I will detail the basic function and steps in order to successfully utilize the tool:
 
-- Optimize your gear selection through various presets
-- Determine your optimal trinket rotation through the trinket optimizer
-- Emulate specific encounter scenarios (duration, buffs, debuffs, etc.)
-- Gauge your Moonkin Aura DPS contribution to your party and raid
-- Visualize how stats from gear, buffs, world buffs, and more adjusts your critical stat weights
-- Save and publish your gear sets for later use or comparison
-- Utilize high-risk, high-reward tables to maximize your gameplay
-- Add or remove gear which you've collected to optimize any preset specifically for <b><i>YOUR</i></b> in game scenario
-- And more...!
-
 - Depending on what <b>Phase</b> your parameter is set to on the <b>Character</b> sheet you will be able to select or deselect any trinkets you wish to optimize in your test
 - If optimizing for a boss make sure that <b>Boss?</b> is selected to <b>Yes</b> and a duration is input in terms of <b>seconds</b>
 - Click <b>Generate Item Assignments</b> and then <b>Optimization</b>
