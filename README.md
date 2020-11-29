@@ -24,8 +24,7 @@ One of the most advanced World of WarCraft Classic theorycraft resources for Bal
 - Add or remove gear which you've collected to optimize any preset specifically for <b><i>YOUR</i></b> in game scenario
 - And more...!
 
-Use release-it for version management and publish to anywhere with its versatile configuration, a powerful plugin
-system, and use hooks to execute any command you need to test, build, and/or publish your project.
+This spreadsheet is a resource which is primarily for Excel to utilize the power and functionality of VBA macros. <b>You will not be able to use this tool in Google Docs!</b>
 
   ---
 
