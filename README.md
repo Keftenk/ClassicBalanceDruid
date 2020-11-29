@@ -65,6 +65,8 @@ The spreadsheet also comes equipped with a rough estimation of the DPS that you 
 
 <sub><sup><i>NOTE: Currently Ignite is not supported and I'm looking for someone able to reconstruct the tool appropriately for the aura with Ignite included.</i></sub></sup>
 
+#
+
 ### Trinket Optimization
 
 This feature of the tool is extremely powerful, but is easily the most miss appropriated function of the entire sheet. As a summary the optimization done in this worksheet will allow you to optimize for specific duration fights, such as a raid boss, or even optimize a trinket rotation for a given duration for trash monsters. I will detail the basic function and steps in order to successfully utilize the tool:
