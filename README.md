@@ -37,7 +37,7 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 <a href="#FAQ"><b>FAQ</b></a>&nbsp;|&nbsp;
 <a href="#Resources"><b>Resources</b></a>&nbsp;|&nbsp;
 <a href="#Author-Notes"><b>Author Notes</b></a>&nbsp;|&nbsp;
-<a href="#Donation><b>Donation</b></a>&nbsp;|&nbsp;
+<a href="#Donation"><b>Donation</b></a>&nbsp;|&nbsp;
 <a href="#Credit"><b>Credit</b></a>
 </p> 
 
