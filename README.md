@@ -37,7 +37,7 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Resources</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Author Notes</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Donation</b></a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Credit</b></a>&nbsp;|&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Credit</b></a>
 </p> 
 
   ---
