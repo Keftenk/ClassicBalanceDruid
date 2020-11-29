@@ -29,7 +29,7 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
   ---
   
 <p align='center'>
-<a href="#About"></a><b>About</b>&nbsp;|&nbsp;
+  <a href="#About"><b>About</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Spreadsheet</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Target Spell Resistance</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Moonkin Calculator (Web Application)</b></a>&nbsp;|&nbsp;
@@ -41,7 +41,7 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 
   ---
 
-# <a href id="#About">About</a>
+# <a href id="#About"></a>About
 
 Hey there 👋,
 
