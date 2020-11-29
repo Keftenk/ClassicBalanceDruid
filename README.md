@@ -52,7 +52,7 @@ Moonkin as well as the Druid talent tree revamp came very late in the progressio
 
   ---
 
-# <a href id="#Spreadsheet"></a>Spreadsheet <img src="Images/sheet_options.png">
+# <a href id="#Spreadsheet"></a>Spreadsheet
 
 <img align="left" src="Images/optimize.png" height="280">
 
@@ -65,6 +65,10 @@ The Score function is the culmination of the stat weights via each individual it
 The spreadsheet also comes equipped with a rough estimation of the DPS that you may be able to produce with the given parameters. Tthis is not a perfect simulation of damage and does have a inherent margin of error which comes with it. Additionally, Zephan from the Classic Warlock community designed a <b>Moonkin Aura</b> tool which generates a rough estimation of the DPS contribition it brings to the party and raid.
 
 <sub><sup><i>NOTE: Currently Ignite is not supported and I'm looking for someone able to reconstruct the tool appropriately for the aura with Ignite included.</i></sub></sup>
+
+# Trinket Optimization
+
+Test
 
   ---
  
