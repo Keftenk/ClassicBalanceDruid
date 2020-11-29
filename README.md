@@ -284,7 +284,6 @@ If you'd like to support the project and what it has been able to offer to you a
 
 Thank you everyone for being either a direct or indirect influence on such a ambitious project.
 
-&nbsp;
-
 In the raven's name,
+
 <b>Keftenk</b>
