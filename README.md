@@ -58,7 +58,7 @@ Moonkin as well as the Druid talent tree revamp came very late in the progressio
 
 By utilizing VBA macros you may optimize your gear down to exact value of a stat such as: Spell Hit, Spell Crit, Spell Damage, and more. This can be achieved by selecting your desired parameters in the <b>Character Selection</b> row and any additional <b>Settings</b> such as talents, buffs, and debuffs. Once selected you may click <b>Final Optimal Gear Set</b> and if you desire an even more exact optimization then click <b>Exact Optimization</b> at the bottom of the page.
 
-&nbsp;&nbsp;
+<b>You will not be able to use this tool in Google Docs!</b>
 
 The Score function is the culmination of the stat weights via each individual item which has been selected. All of these parameters can be saved and called upon at a later load of the resource.
 
