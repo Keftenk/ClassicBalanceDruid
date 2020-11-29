@@ -229,6 +229,7 @@ A: It's actually not bad. If we're talking about best in slot gear, it falls sho
 - <a href="https://discord.gg/DwbRKh">Classic Theorycrafting Discord</a>
 
 &nbsp;
+
   ---
 
 # <a href id="#Author-Notes"></a>Author Notes
