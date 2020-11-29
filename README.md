@@ -10,7 +10,7 @@
 
 # "By the great winds, I come." Classic Balance Druid Spreadsheet v1.8
 
-Generic CLI tool to automate versioning and package publishing related tasks:
+One of the most advanced World of WarCraft Classic theorycraft resources for Balance Druid:
 
 <img align="right" src="Images/moonkin_side.png" height="280">
 
