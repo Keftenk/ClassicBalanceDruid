@@ -27,6 +27,11 @@ One of the most advanced World of WarCraft Classic theorycraft resources for Bal
 This spreadsheet is a resource which is primarily for Excel to utilize the power and functionality of VBA macros. <b>You will not be able to use this tool in Google Docs!</b>
 
   ---
+  
+<p align='center'>
+<a href="https://kmmiles.gitlab.io/moonkin-calc/">test 1</a>&nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">test 2</a>&nbsp;&nbsp;
+</p> 
 
 Hey there 👋,
 
