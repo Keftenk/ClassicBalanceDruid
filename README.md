@@ -257,7 +257,7 @@ I've been an integral part of the Classic World of Warcraft theorycraft communit
 
 It has been quite the endeavor embarking on this project only to see it near its final completion and ending almost <b><i>5 years later</i></b>. I never would have thought I would invest so much time into something so mundane for so long. Nevertheless the pursuit of factual evidence versus archaic information and unproven claims is what kept me going. It truly became a passion.
 
-If you'd like to support the project and what it has been able to offer to you and/or the community. Please, feel free and click <b><a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">here</a></b>. You can also click the PayPal link at the top of the page or the link inside the spreadsheet.
+If you'd like to support the project and what it has been able to offer to you and/or the community. Please, feel free and click <b><a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">here</a></b>. You can also click the PayPal link at the top of the page or the link inside the spreadsheet. It's not required to have a PayPal account to donate.
 
   ---
 
@@ -272,13 +272,13 @@ If you'd like to support the project and what it has been able to offer to you a
     * Guild: NOPE
     * Azuregos
 * <b>Theorycrafting</b>
+    * Beef Broccoli
+    * Zephan
+    * Balor
     * Taladril
     * Shedo
-    * Zephan
     * Guybrush
     * Ayz
-    * Beef Broccoli
-    * Balor
 * <b>Classic</b>
     * Guild: Pretty Good
 
