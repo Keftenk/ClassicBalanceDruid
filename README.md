@@ -263,21 +263,26 @@ If you'd like to support the project and what it has been able to offer to you a
 
 # <a href id="#Credit"></a>Credit
 
-- Nostalrius
- - Viper
- - Daemon
- - Nano
-- Other
- - Brotalnia
- - Taladril
- - Shedo
-- Other 56
-- Zephan
-- Guybrush
-- Ayz
-- Beef Broccoli
-- Balor
-- Nostalrius Guild: Coaltion
-- Nostalrius Guild: NOPE
-- WoW Classic Guild: Pretty Good
-- Azuregos
+* Nostalrius
+    * Viper
+    * Daemon
+    * Nano
+    * Brotalnia
+    * Guild: Coalition
+    * Guild: NOPE
+    * Azuregos
+
+* Theorycrafting
+    * Taladril
+    * Shedo
+    * Zephan
+    * Guybrush
+    * Ayz
+    * Beef Broccoli
+    * Balor
+
+* Classic
+    * Guild: Pretty Good
+
+* Other
+    * Guild: Pretty Good
