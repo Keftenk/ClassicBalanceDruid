@@ -43,8 +43,6 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 
 # <a href id="#About"></a>About
 
-<img align="left" src="Images/optimize.png" height="280">
-
 This project was developed not out of the desire to play the Moonkin myself, but to justifiably refute accusations within the community as to how Balance Druid performs in a raid environment and if there was any validity to the claims players would make or if everything was hearsay. I went in with a unbiased opinion of the specs performance and detailed the process backed by mathematics. I can say with enough assurance that I can speak to the Balance Druid better than most. I hope you all can appreciate and enjoy the resource.
 
 Balance Druid's stereotype which has carried through to today has been the notion that they run out of mana exceedingly fast, being coined "OOMkin". This is a verifiably false statement with the capability of being able to last nearly 5-minutes in the current state of the game. In hindsight Smite Priest, Shadow Priest, as well as Elemental Shaman have more mana management opportunities.
@@ -58,7 +56,7 @@ Moonkin as well as the Druid talent tree revamp came very late in the progressio
 
 By utilizing VBA macros you may optimize your gear down to the exact value of Hit%, Crit%, INT, Spell Damage, Faction, Classic Phase#, Spell Rank#, Buffs, and Debuffs. This is achievable by clicking "Finding Optimal Gear Set" and "Exact Optimization" features present on the 'Character' sheet. Stat weights will automatically correct and reoptimize using the math derivatives which have been written for the tool. You are also able to optimize your trinkets per durational boss fights if you so wish which then can be fed back into your 'Character' optimization.
 
-<img src="Images/spreadsheet_001.png">
+<img align="left" src="Images/optimize.png" height="280">
 
 The Score function is the culmination of the stat weights via each individual item which has been selected. All of these parameters can be saved and called upon at a later load of the resource.
 
