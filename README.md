@@ -155,6 +155,8 @@ As we can see from the tables, <b>Spell Penetration</b> is nearly as useless as 
 
 Credit to <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> for designing the WCL scraper. You can view some of his Codepen process <a href="https://codepen.io/beef_broccoli/pen/zYqrBxw">here</a>.
 
+  ---
+
 # <a href id="#Web-Application"></a>Web Application
 
 <img align="left" src="Images/optimize.png" height="280">
