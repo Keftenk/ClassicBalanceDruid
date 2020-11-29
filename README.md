@@ -205,7 +205,7 @@ A: Absolutely, at least until you can acquire Rank 7 Starfire with considerable 
 
 ### Q: Should I go for 16% Spell Hit as soon as possible?
 
-A: It depends on your play style as well as your raid. If you encounter slower kills then you may want to utilize the extra Spell Hit%. If your fights can be calculated then you may want to utilize the <b>Spell Hit Optimization</b> charts to maximize your DPS potential. Be warned though you will essentially be rolling the dice with RNG. You could either be severely punished or severely rewarded for this style of play. The best answer would to find a medium, which both the spreadsheet and the web application both suggest as optimal.
+A: It depends on your play style as well as your raid. If you encounter slower kills then you may want to utilize the extra Spell Hit%. If your fights can be calculated then you may want to utilize the <b>Spell Hit Optimization</b> charts to maximize your DPS potential. Caution though, you will essentially be rolling the dice with RNG. You could either be severely punished or severely rewarded for this style of play. The best answer would be to find a medium, which both the spreadsheet and the web application both suggest as optimal.
 
 ### Q: Is it worth using a 5% Spell Hit set for trash?
 
