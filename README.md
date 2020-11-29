@@ -34,10 +34,10 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 <a href="#Spell-Penetration"><b>Spell Penetration</b></a>&nbsp;|&nbsp;
 <a href="#Web-Application"><b>Web Application</b></a>&nbsp;|&nbsp;
 <a href="#FAQ"><b>FAQ</b></a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Resources</b></a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Author Notes</b></a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Donation</b></a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Credit</b></a>
+<a href="#Resources"><b>Resources</b></a>&nbsp;|&nbsp;
+<a href="#Author-Notes"><b>Author Notes</b></a>&nbsp;|&nbsp;
+<a href="#Donation><b>Donation</b></a>&nbsp;|&nbsp;
+<a href="#Credit"><b>Credit</b></a>
 </p> 
 
   ---
@@ -188,6 +188,10 @@ A: Optimally? No. However, if you don't have a Feral Bear or Restoration Druid t
 
 A: It's your best source of damage. Wrath has very niche uses during specific occasions. During Phase 1 and Phase 2 we'll have 16 debuffs with no way of filling all 16 slots with optimal effects. At most only 10 can be filled optimally, which leaves 6 open slots. These should theoretically be given to 6 Warlocks and/or 6 Shadow Priests, but if not then there may be room for Moonfire.
 
+### Q: I heard that going Cat Form vs Vaelastrasz the Corrupt is optimal, is this true?
+
+A: Absolutely, at least until you can acquire Rank 7 Starfire with considerable gear. Carrying around a Feral set with Manual Crowd Pummeler is exceptional for this fight in particular due to the unlimited resources. I have pulled near ~1200dps in Phase 3&4 by going Cat in this fight. You don't even need to change talents in order to perform this well.
+
 ### Q: Should I go for 16% Spell Hit as soon as possible?
 
 A: It depends on your play style as well as your raid. If you encounter slower kills then you may want to utilize the extra Spell Hit%. If your fights can be calculated then you may want to utilize the <b>Spell Hit Optimization</b> charts to maximize your DPS potential. Be warned though you will essentially be rolling the dice with RNG. You could either be severely punished or severely rewarded for this style of play. The best answer would to find a medium, which both the spreadsheet and the web application both suggest as optimal.
@@ -195,6 +199,10 @@ A: It depends on your play style as well as your raid. If you encounter slower k
 ### Q: Is it worth using a 5% Spell Hit set for trash?
 
 A: I think it is. We're already a poorly built class so we should be doing whatever possible to pump. Utilizing a trash DPS set is roughly a ~10% DPS increase from your previous standing parses.
+
+### Q: The spreadsheet values Spell Penetration at 0, why?
+
+A: If you look at the <b>Weights</b> tab and scroll to the right of the page you will see that Spell Penetration is actually weighted correctly. However, per the resistances data from above the value of the stat is nearly worthless. For this reason I deliberately forced the tool to calculate it with a value of 0.
 
 ### Q: Why is Spirit and MP5 not present in your calculation?
 
@@ -207,10 +215,39 @@ A: In Classic the majority of fights will take you no longer than 60 seconds to 
 1. Progression during some raids may end up being a bit more mana intensive. In this instance I would educate using R1 Starfire when you've depleted your consumables and Innervate.
 2. Loatheb, Patchwerk, and Sapphiron can be considerably long, to the point where you're just barely finishing the fight with mana. You may have to utilize R1 Starfire in this instance.
 
-### Q: I heard that going Cat Form vs Vaelastrasz the Corrupt is optimal, is this true?
-
-A: Absolutely, at least until you can acquire Rank 7 Starfire with considerable gear. Carrying around a Feral set with Manual Crowd Pummeler is exceptional for this fight in particular due to the unlimited resources. I have pulled near ~1200dps in Phase 3&4 by going Cat in this fight. You don't even need to change talents in order to perform this well.
-
 ### Q: How good is Regalia of Undead Cleansing?
 
 A: It's actually not bad. If we're talking about best in slot gear, it falls short. However, it's the best option for trash DPS and will be your best in slot option until you're able to get closer to an optimal set up. The reason that it can be so good is that the specific "damage vs Undead" set bonus double dips. Once for the normal calculation and then a second time for the critical hit calculation (i.e. 1.02 * 1.02).
+
+  ---
+
+# <a href id="#Resources"></a>Resources
+
+- <a href="Sheets/Classic_Balance_Druidv1.8.xlsm">Classic Balance Druid Spreadsheet</a>
+- <a href="https://kmmiles.gitlab.io/moonkin-calc/">Moonkin Calculator (Web Application)</a>
+- <a href="https://discord.gg/SMwmrBV">Druid Classic Discord</a>
+- <a href="https://discord.gg/DwbRKh">Classic Theorycrafting Discord</a>
+
+  ---
+
+# <a href id="#Author-Notes"></a>Author Notes
+
+I've played World of Warcraft from Beta through Wrath of the Lich King. Proficient in Restoration Shaman for the majority of my career with my beginnings as a Restoration Druid in Vanilla.
+
+I predominantly played in a hardcore raiding guild, Coalition, on Nostalrius. During the Nostalrius to Elysium transition I became integrated into the Quality Assurance team. During my time on Nostalrius, as well as being apart of the QA team, the development of Balance Druid theorycraft began.
+
+I've been an integral part of the Classic World of Warcraft theorycraft community and have been a reliable resource of information and knowledge on the inner workings of World of Warcraft emulation as well as how technical mechanics worked in Vanilla.
+
+  ---
+
+# <a href id="#Donation"></a>Donation
+
+It has been quite the endeavor embarking on this project only to see it near its final completion and ending almost <b><i>5 years later</i></b>. I never would have thought I would invest so much time into something so mundane for so long. Nevertheless the pursuit of factual evidence versus archaic information and unproven claims is what kept me going. It truly became a passion.
+
+If you'd like to support the project and what it has been able to offer to you and/or the community. Please, feel free and click <b><a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">here</a></b>. You can also click the PayPal link at the top of the page or the link inside the spreadsheet.
+
+  ---
+
+# <a href id="#Credit"></a>Credit
+
+Viper, Daemon, Nano, Brotalnia, Taladril, Shedo, Zephan, Guybrush, Ayz, Beef Broccoli, Balor, Nostalrius Guild: Coalition and NOPE, WoW Classic Guild: Pretty Good, and Azuregos.
