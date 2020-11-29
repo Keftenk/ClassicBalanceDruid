@@ -32,7 +32,7 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 <a href="#About"><b>About</b></a>&nbsp;|&nbsp;
 <a href="#Spreadsheet"><b>Spreadsheet</b></a>&nbsp;|&nbsp;
 <a href="#Target-Spell-Resistance"><b>Target Spell Resistance</b></a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Web Application</b></a>&nbsp;|&nbsp;
+<a href="#Web-Application"><b>Web Application</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>FAQ</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Author Notes</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Donation</b></a>&nbsp;|&nbsp;
@@ -154,3 +154,15 @@ In working with <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> an
 As we can see from the tables, <b>Spell Penetration</b> is nearly as useless as it was once previous thought. Only a handful of bosses, mostly in Molten Core, even have resistances worth reducing. Frost Resistance data is also incomplete due to the unique mechanics of Frostbolt.
 
 Credit to <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> for designing the WCL scraper. You can view some of his Codepen process <a href="https://codepen.io/beef_broccoli/pen/zYqrBxw">here</a>.
+
+# <a href id="#Web-Application"></a>Web Application
+
+<img align="left" src="Images/optimize.png" height="280">
+
+By utilizing VBA macros you may optimize your gear down to exact value of a stat such as: Spell Hit, Spell Crit, Spell Damage, and more. This can be achieved by selecting your desired parameters in the <b>Character Selection</b> row and any additional <b>Settings</b> such as talents, buffs, and debuffs. Once selected you may click <b>Final Optimal Gear Set</b> and if you desire an even more exact optimization then click <b>Exact Optimization</b> at the bottom of the page.
+
+&nbsp;&nbsp;
+
+The Score function is the culmination of the stat weights via each individual item which has been selected. All of these parameters can be saved and called upon at a later load of the resource.
+
+The spreadsheet also comes equipped with a rough estimation of the DPS that you may be able to produce with the given parameters. Tthis is not a perfect simulation of damage and does have a inherent margin of error which comes with it. Additionally, Zephan from the Classic Warlock community designed a <b>Moonkin Aura</b> tool which generates a rough estimation of the DPS contribition it brings to the party and raid.
