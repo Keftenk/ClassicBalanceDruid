@@ -31,7 +31,7 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 <p align='center'>
 <a href="#About"><b>About</b></a>&nbsp;|&nbsp;
 <a href="#Spreadsheet"><b>Spreadsheet</b></a>&nbsp;|&nbsp;
-<a href="#Target Spell Resistance"><b>Target Spell Resistance</b></a>&nbsp;|&nbsp;
+<a href="#Target-Spell-Resistance"><b>Target Spell Resistance</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Web Application</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>FAQ</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Author Notes</b></a>&nbsp;|&nbsp;
@@ -88,7 +88,7 @@ Please understand that the optimization will take an exceedingly long time to ge
 
   ---
 
-# <a href id="#Target Spell Resistance"></a>Target Spell Resistance
+# <a href id="#Target-Spell-Resistance"></a>Target Spell Resistance
 
 Part of the work done to understand the class and specilization was to also determine whether or not <v>Spell Penetration</b> was going to be valuable to us when it became widely available in Phase 5. Up until this point there was very little credible data from Vanilla suggesting that any of the bosses in Classic had any discernable amount of resistances for Arcane, Fire, Frost, Nature, and Shadow.
 
