@@ -161,6 +161,6 @@ Credit to <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> for desi
 
 <img align="left" src="Images/moonkin_calculator.png" height="280">
 
-<a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> has taken the liberty in converting the spreadsheet tool into a easy to use web application for users that aren't able to access the sheet due to the Microsoft Excel requirement. The tool doesn't have the entire functionality of the spreadsheet, i.e. no fully trinket optimization, but it will get you the same exact results as the spreadsheet will relative to best in slot options.
+The spreadsheet has also been adapted to a easy to use web based application designed by <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a>. This is a great alternative for any user that isn't able to access Microsoft Excel. The application doesn't have all of the features of the spreadsheet, but it will generate the same best in slot results if you're looking for a quick dive into what gear you should be acquiring.
 
 Access the web application by clicking on the <a href="https://kmmiles.gitlab.io/moonkin-calc/"><img height="20" src="Images/moonfireicon.png"></a>. The link is also at the top of the page and inside the spreadsheet itself. 
