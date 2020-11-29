@@ -271,7 +271,6 @@ If you'd like to support the project and what it has been able to offer to you a
     * Guild: Coalition
     * Guild: NOPE
     * Azuregos
-
 * <b>Theorycrafting</b>
     * Taladril
     * Shedo
@@ -280,10 +279,8 @@ If you'd like to support the project and what it has been able to offer to you a
     * Ayz
     * Beef Broccoli
     * Balor
-
 * <b>Classic</b>
     * Guild: Pretty Good
-
 * <b>Other</b>
     * Guild: Pretty Good
 
