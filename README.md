@@ -77,4 +77,6 @@ This feature of the tool is extremely powerful, but is easily the most miss appr
 - If you wish to optimize the trinket selection with the rest of your gear click over to the <b>Character</b> sheet and make sure the <b>Optimize Trinket</b> parameter in the <b>Character Selection</b> column is selected as <b>Yes</b>
 - Click <b>Find Optimal Gear Set</b> and then <b>Exact Optimization</b> at the bottom of the page if desired
 
+<img src="Images/trinket_optimize.png">
+
   ---
