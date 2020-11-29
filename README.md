@@ -41,7 +41,7 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 
   ---
 
-# <a href id="#About"></a>About
+## <a href id="#About"></a>About
 
 This project was developed not out of the desire to play the Moonkin myself, but to justifiably refute accusations within the community as to how Balance Druid performs in a raid environment and if there was any validity to the claims players would make or if everything was hearsay. I went in with a unbiased opinion of the specs performance and detailed the process backed by mathematics. I can say with enough assurance that I can speak to the Balance Druid better than most. I hope you all can appreciate and enjoy the resource.
 
@@ -51,7 +51,7 @@ Moonkin as well as the Druid talent tree revamp came very late in the progressio
 
   ---
 
-# <a href id="#Spreadsheet"></a>Spreadsheet
+## <a href id="#Spreadsheet"></a>Spreadsheet
 
 <img align="left" src="Images/optimize.png" height="280">
 
@@ -65,7 +65,7 @@ The spreadsheet also comes equipped with a rough estimation of the DPS that you 
 
 <sub><sup><i>NOTE: Currently Ignite is not supported and I'm looking for someone able to reconstruct the tool appropriately for the aura with Ignite included.</i></sub></sup>
 
-# Trinket Optimization
+### Trinket Optimization
 
 This feature of the tool is extremely powerful, but is easily the most miss appropriated function of the entire sheet. As a summary the optimization done in this worksheet will allow you to optimize for specific duration fights, such as a raid boss, or even optimize a trinket rotation for a given duration for trash monsters. I will detail the basic function and steps in order to successfully utilize the tool:
 
@@ -86,7 +86,7 @@ Please understand that the optimization will take an exceedingly long time to ge
 
   ---
 
-# <a href id="#Spell Resistance"></a>Spreadsheet
+## <a href id="#Spell Resistance"></a>Spreadsheet
 
 Part of the work done to understand the class and specilization was to also determine whether or not <v>Spell Penetration</b> was going to be valuable to us when it became widely available in Phase 5. Up until this point there was very little credible data from Vanilla suggesting that any of the bosses in Classic had any discernable amount of resistances for Arcane, Fire, Frost, Nature, and Shadow.
 
