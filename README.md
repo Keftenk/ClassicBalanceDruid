@@ -31,7 +31,7 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 <p align='center'>
 <a href="#About"><b>About</b></a>&nbsp;|&nbsp;
 <a href="#Spreadsheet"><b>Spreadsheet</b></a>&nbsp;|&nbsp;
-<a href="#Target-Spell-Resistance"><b>Target Spell Resistance</b></a>&nbsp;|&nbsp;
+<a href="#Target-Spell-Resistance"><b>Spell Penetration</b></a>&nbsp;|&nbsp;
 <a href="#Web-Application"><b>Web Application</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>FAQ</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Resources</b></a>&nbsp;|&nbsp;
@@ -58,7 +58,7 @@ Moonkin as well as the Druid talent tree revamp came very late in the progressio
 
 By utilizing VBA macros you may optimize your gear down to exact value of a stat such as: Spell Hit, Spell Crit, Spell Damage, and more. This can be achieved by selecting your desired parameters in the <b>Character Selection</b> row and any additional <b>Settings</b> such as talents, buffs, and debuffs. Once selected you may click <b>Final Optimal Gear Set</b> and if you desire an even more exact optimization then click <b>Exact Optimization</b> at the bottom of the page.
 
-<u>Only useable in Microsoft Excel.</u>
+<b>Only useable in Microsoft Excel!</b>
 
 The Score function is the culmination of the stat weights via each individual item which has been selected. All of these parameters can be saved and called upon at a later load of the resource.
 
