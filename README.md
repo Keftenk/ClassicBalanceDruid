@@ -29,8 +29,14 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
   ---
   
 <p align='center'>
-<a href="https://kmmiles.gitlab.io/moonkin-calc/">test 1</a>&nbsp;&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">test 2</a>&nbsp;&nbsp;
+<a href="https://kmmiles.gitlab.io/moonkin-calc/">About</a>&nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Spreadsheet</a>&nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Target Spell Resistance</a>&nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Moonkin Calculator (Web Application)</a>&nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">FAQ</a>&nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Author Notes</a>&nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Donation</a>&nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Credit</a>&nbsp;&nbsp;
 </p> 
 
 #
