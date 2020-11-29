@@ -43,8 +43,6 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 
 # <a href id="#About"></a>About
 
-Hey there 👋,
-
 This project was developed not out of the desire to play the Moonkin myself, but to justifiably refute accusations within the community as to how Balance Druid performs in a raid environment and if there was any validity to the claims players would make or if everything was hearsay. I went in with a unbiased opinion of the specs performance and detailed the process backed by mathematics. The entire process of the project undeniably has left me tilted and crazed, but I can say with enough assurance that I can speak to the Balance Druid better than most. I hope you all can appreciate and enjoy the resource.
 
 
