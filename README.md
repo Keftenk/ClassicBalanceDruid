@@ -41,7 +41,7 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 
   ---
 
-# <a href id="#About">&nbsp;</a>About
+# <a href id="#About"></a>About
 
 Hey there 👋,
 
