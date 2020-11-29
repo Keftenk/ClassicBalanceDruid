@@ -67,6 +67,12 @@ The spreadsheet also comes equipped with a rough estimation of the DPS that you 
 
 <sub><sup><i>NOTE: Currently Ignite is not supported and I'm looking for someone able to reconstruct the tool appropriately for the aura with Ignite included.</i></sub></sup>
 
+## Spreadsheet Screenshots
+
+Classic Balance Druid Intro         |  Character Sheet | Stat Weights       |  Customizable Gear Selection
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="Images/spreadsheet_01.png" width="100%"> |<img src="Images/spreadsheet_02.png" width="100%">|<img src="Images/spreadsheet_03.png" width="100%"> width="100%"> |<img src="Images/spreadsheet_04.png" width="100%"> width="100%">
+
 #
 
 ### Trinket Optimization
