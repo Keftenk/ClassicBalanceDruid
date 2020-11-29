@@ -69,9 +69,13 @@ The spreadsheet also comes equipped with a rough estimation of the DPS that you 
 
 ## Spreadsheet Screenshots
 
+<div align="center">
+
 Classic Balance Druid Intro         |  Character Sheet | Stat Weights       |  Customizable Gear Selection
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="Images/spreadsheet_01.png" width="100%"> |<img src="Images/spreadsheet_02.png" width="100%">|<img src="Images/spreadsheet_03.png" width="100%"> width="100%"> |<img src="Images/spreadsheet_04.png" width="100%"> width="100%">
+<img src="https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/src/assets/images/screen/app-login.PNG" title="Desktop App  Login " width="100%"> |<img src="https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/src/assets/images/screen/app-home.PNG" title="Desktop App Open" width="100%">|<img src="https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/src/assets/images/screen/web-system.PNG" title="Web App  PC  Drivers" width="100%"> |<img src="https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/src/assets/images/screen/web-system.PNG" title="Web App  PC  Drivers" width="100%">
+
+</div>
 
 #
 
