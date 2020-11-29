@@ -31,9 +31,9 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
 <p align='center'>
 <a href="#About"><b>About</b></a>&nbsp;|&nbsp;
 <a href="#Spreadsheet"><b>Spreadsheet</b></a>&nbsp;|&nbsp;
-<a href="#Target-Spell-Resistance"><b>Spell Penetration</b></a>&nbsp;|&nbsp;
+<a href="#Spell-Penetration"><b>Spell Penetration</b></a>&nbsp;|&nbsp;
 <a href="#Web-Application"><b>Web Application</b></a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>FAQ</b></a>&nbsp;|&nbsp;
+<a href="#FAQ"><b>FAQ</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Resources</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Author Notes</b></a>&nbsp;|&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Donation</b></a>&nbsp;|&nbsp;
@@ -89,7 +89,7 @@ Please understand that the optimization will take an exceedingly long time to ge
 
   ---
 
-# <a href id="#Target-Spell-Resistance"></a>Target Spell Resistance
+# <a href id="#Spell-Penetration"></a>Target Spell Resistance
 
 Part of the work done to understand the class and specilization was to also determine whether or not <v>Spell Penetration</b> was going to be valuable to us when it became widely available in Phase 5. Up until this point there was very little credible data from Vanilla suggesting that any of the bosses in Classic had any discernable amount of resistances for Arcane, Fire, Frost, Nature, and Shadow.
 
@@ -161,6 +161,14 @@ Credit to <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> for desi
 # <a href id="#Web-Application"></a>Web Application
 
 <img align="left" src="Images/moonkin_calculator.png" height="280">
+
+The spreadsheet has also been adapted to a easy to use web based application designed by <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a>. This is a great alternative for any user that isn't able to access Excel. The application doesn't have all of the features of the spreadsheet, but it will generate the same best in slot results if you're looking for a quick dive into what gear you should be acquiring.
+
+Access the web application by clicking on the <a href="https://kmmiles.gitlab.io/moonkin-calc/"><img height="20" src="Images/moonfireicon.png"></a>. The link is also at the top of the page and inside the spreadsheet itself. 
+
+  ---
+
+# <a href id="#FAQ"></a>FAQ
 
 The spreadsheet has also been adapted to a easy to use web based application designed by <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a>. This is a great alternative for any user that isn't able to access Excel. The application doesn't have all of the features of the spreadsheet, but it will generate the same best in slot results if you're looking for a quick dive into what gear you should be acquiring.
 
