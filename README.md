@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-<a href="Sheets/Classic_Balance_Druidv1.8.xlsm"><img height="30" src="Images/excel-icon-transparent.png"></a>
+<a href="Sheets/Classic_Balance_Druidv1.8.xlsm"><img height="30" src="Images/excel-icon-transparent.png"></a>&nbsp;&nbsp;
 <a href="https://kmmiles.gitlab.io/moonkin-calc/"><img height="30" src="Images/moonfireicon.png"></a>&nbsp;&nbsp;
 <a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><img height="30" src="Images/paypalicon.png"></a>&nbsp;&nbsp;
 </p>
