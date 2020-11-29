@@ -88,7 +88,7 @@ Please understand that the optimization will take an exceedingly long time to ge
 
   ---
 
-# <a href id="#SpellResistance"></a>Target Spell Resistance
+# <a href id="#Spreadsheet"></a>Target Spell Resistance
 
 Part of the work done to understand the class and specilization was to also determine whether or not <v>Spell Penetration</b> was going to be valuable to us when it became widely available in Phase 5. Up until this point there was very little credible data from Vanilla suggesting that any of the bosses in Classic had any discernable amount of resistances for Arcane, Fire, Frost, Nature, and Shadow.
 
