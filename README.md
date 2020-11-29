@@ -181,7 +181,7 @@ Access the web application by clicking on the <a href="https://kmmiles.gitlab.io
 
 # <a href id="#FAQ"></a>FAQ
 
-### Q: The DPS looks low, is that accurate?
+### Q: The DPS appears low, is that accurate?
 
 A: Yes. Balance Druid won't shock and dazzle. Our most unique fight opportunities come with Chromaggus's Arcane Invulnerability shimmer which is 400% more damage taken and Loatheb's Fungal Bloom buff which should give you a permanent 100% Critical chance to Starfire, reducing its spell cast permanently to 2.5 seconds.
 
