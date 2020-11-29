@@ -193,7 +193,7 @@ Moonkin Aura loses its value the more Spell Critical chance your party has. It h
 
 ### Q: Should I be the Druid using Faerie Fire?
 
-A: Optimally? No. However, if you don't have a Feral Bear or Restoration Druid in your party and/or raid group then it should fall onto yourself. Additionally, if you're Alliance and your guild utilizes <b>Improved Exposed Armor</b> you should be pairing your Faerie Fire casts with <b>Holy Sunder</b> via <b><a href="https://classic.wowhead.com/item=7344/torch-of-holy-flame">Torch of the Holy Flame</a></b>.
+A: Optimally? No. However, if you don't have a Feral Bear or Restoration Druid in your party and/or raid group then it should fall onto you. Additionally, if you're Alliance and your guild utilizes <b>Improved Exposed Armor</b> you should be pairing your Faerie Fire casts with <b>Holy Sunder</b> via <b><a href="https://classic.wowhead.com/item=7344/torch-of-holy-flame">Torch of the Holy Flame</a></b>.
 
 ### Q: Do I really resort to Starfire spam?
 
