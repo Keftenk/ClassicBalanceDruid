@@ -159,12 +159,6 @@ Credit to <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> for desi
 
 # <a href id="#Web-Application"></a>Web Application
 
-<img align="left" src="Images/optimize.png" height="280">
+<img align="left" src="Images/moonkin_calculator.png" height="280">
 
-By utilizing VBA macros you may optimize your gear down to exact value of a stat such as: Spell Hit, Spell Crit, Spell Damage, and more. This can be achieved by selecting your desired parameters in the <b>Character Selection</b> row and any additional <b>Settings</b> such as talents, buffs, and debuffs. Once selected you may click <b>Final Optimal Gear Set</b> and if you desire an even more exact optimization then click <b>Exact Optimization</b> at the bottom of the page.
-
-&nbsp;&nbsp;
-
-The Score function is the culmination of the stat weights via each individual item which has been selected. All of these parameters can be saved and called upon at a later load of the resource.
-
-The spreadsheet also comes equipped with a rough estimation of the DPS that you may be able to produce with the given parameters. Tthis is not a perfect simulation of damage and does have a inherent margin of error which comes with it. Additionally, Zephan from the Classic Warlock community designed a <b>Moonkin Aura</b> tool which generates a rough estimation of the DPS contribition it brings to the party and raid.
+<a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> has taken the liberty in converting the spreadsheet tool into a easy to use web application for users that aren't able to access the sheet due to the Microsoft Excel requirement. The tool doesn't have the entire functionality of the spreadsheet, i.e. no fully trinket optimization, but it will get you the same exact results as the spreadsheet will relative to best in slot options.
