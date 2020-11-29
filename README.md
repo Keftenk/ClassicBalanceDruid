@@ -29,14 +29,14 @@ This spreadsheet is a resource which is primarily for Excel to utilize the power
   ---
   
 <p align='center'>
-<a href="https://kmmiles.gitlab.io/moonkin-calc/">About</a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Spreadsheet</a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Target Spell Resistance</a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Moonkin Calculator (Web Application)</a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">FAQ</a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Author Notes</a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Donation</a>&nbsp;|&nbsp;
-<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US">Credit</a>&nbsp;|&nbsp;
+<a href="https://kmmiles.gitlab.io/moonkin-calc/"><b>About</b></a>&nbsp;|&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Spreadsheet</b></a>&nbsp;|&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Target Spell Resistance</b></a>&nbsp;|&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Moonkin Calculator (Web Application)</b></a>&nbsp;|&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>FAQ</b></a>&nbsp;|&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Author Notes</b></a>&nbsp;|&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Donation</b></a>&nbsp;|&nbsp;
+<a href="https://www.paypal.com/paypalme2/keftenk?locale.x=en_US"><b>Credit</b></a>&nbsp;|&nbsp;
 </p> 
 
 #
