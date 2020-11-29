@@ -263,4 +263,21 @@ If you'd like to support the project and what it has been able to offer to you a
 
 # <a href id="#Credit"></a>Credit
 
-Viper, Daemon, Nano, Brotalnia, Taladril, Shedo, Zephan, Guybrush, Ayz, Beef Broccoli, Balor, Nostalrius Guild: Coalition and NOPE, WoW Classic Guild: Pretty Good, and Azuregos.
+- Nostalrius
+ - Viper
+ - Daemon
+ - Nano
+- Other
+ - Brotalnia
+ - Taladril
+ - Shedo
+- Other 56
+- Zephan
+- Guybrush
+- Ayz
+- Beef Broccoli
+- Balor
+- Nostalrius Guild: Coaltion
+- Nostalrius Guild: NOPE
+- WoW Classic Guild: Pretty Good
+- Azuregos
