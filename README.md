@@ -227,8 +227,8 @@ A: It's actually not bad. If we're talking about best in slot gear, it falls sho
 - <a href="https://kmmiles.gitlab.io/moonkin-calc/">Moonkin Calculator (Web Application)</a>
 - <a href="https://discord.gg/SMwmrBV">Druid Classic Discord</a>
 - <a href="https://discord.gg/DwbRKh">Classic Theorycrafting Discord</a>
-&nbsp;
 
+&nbsp;
   ---
 
 # <a href id="#Author-Notes"></a>Author Notes
