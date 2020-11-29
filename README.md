@@ -21,7 +21,7 @@ One of the most advanced World of WarCraft Classic theorycraft resources for Bal
 - Visualize how stats from gear, buffs, world buffs, and more adjusts your critical stat weights
 - Save and publish your gear sets for later use or comparison
 - Utilize high-risk, high-reward tables to maximize your gameplay
-- Add or remove gear which you've collected to optimize any preset specifically for <b>YOUR</b> in game scenario
+- Add or remove gear which you've collected to optimize any preset specifically for <b><i>YOUR</i></b> in game scenario
 - And more...!
 
 Use release-it for version management and publish to anywhere with its versatile configuration, a powerful plugin
