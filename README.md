@@ -104,7 +104,7 @@ Please understand that the optimization will take an exceedingly long time to ge
 
 Part of the work done to understand the class and specilization was to also determine whether or not <v>Spell Penetration</b> was going to be valuable to us when it became widely available in Phase 5. Up until this point there was very little credible data from Vanilla suggesting that any of the bosses in Classic had any discernable amount of resistances for Arcane, Fire, Frost, Nature, and Shadow.
 
-In working with <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> and <b>Balor</b> we were able confirm how much resistances each monster through Phase 5 <b><i>roughly</i></b> had. This was achieved by parsing thousands of hits from <b>Warcraft Logs Classic (WCL)</b> and cross referencing it with the spell hit and resistance formulas.
+In working with <a href="https://github.com/kmmiles"><b>Beef Broccoli</b></a> and <b>Balor</b> we were able confirm how much resistances each monster through Phase 5 <b><i>roughly</i></b> had. This was achieved by parsing thousands of hits from <b>Warcraft Logs Classic (WCL)</b> and cross referencing it with the spell hit and resistance formulas.
 
 <details>
  <summary><strong>Target Spell Resistance Tables</strong></summary>
@@ -165,7 +165,7 @@ In working with <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> an
 
 As we can see from the tables, <b>Spell Penetration</b> is nearly as useless as it was once previous thought. Only a handful of bosses, mostly in Molten Core, even have resistances worth reducing. Frost Resistance data is also incomplete due to the unique mechanics of Frostbolt.
 
-Credit to <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> for designing the WCL scraper. You can view some of his Codepen process <a href="https://codepen.io/beef_broccoli/pen/zYqrBxw">here</a>.
+Credit to <a href="https://github.com/kmmiles"><b>Beef Broccoli</b></a> for designing the WCL scraper. You can view some of his Codepen process <a href="https://codepen.io/beef_broccoli/pen/zYqrBxw">here</a>.
 
   ---
 
