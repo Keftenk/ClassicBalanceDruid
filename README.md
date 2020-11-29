@@ -94,58 +94,10 @@ Part of the work done to understand the class and specilization was to also dete
 
 In working with <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> and <b>Balor</b> we were able confirm how much resistances each monster through Phase 5 <b><i>roughly</i></b> had. This was achieved by parsing thousands of hits from <b>Warcraft Logs Classic (WCL)</b> and cross referencing it with the spell hit and resistance formulas.
 
-+Resistances (without curses)------+--------+--------+-------+--------+--------+
-| enemy                            | arcane | fire   | frost | nature | shadow |
-+----------------------------------+--------+--------+-------+--------+--------+
-| The Prophet Skeram (15263)       | 6.76   | 3.4    | ?     | 0      | 4.36   |
-| Princess Yauj (15543)            | 5.56   | 0      | ?     | 0      | 0      |
-| Lord Kri (15511)                 | 0      | 0      | ?     | 0.36   | 0      |
-| Vem (15544)                      | 3.04   | 0      | ?     | 0      | 0      |
-| Battleguard Sartura (15516)      | 0      | 4.68   | ?     | 0      | 5.16   |
-| Fankriss the Unyielding (15510)  | 2.32   | 0.36   | ?     | 0      | 0      |
-| Viscidus (15299)                 | 180.12 | 181.96 | ?     | 180.08 | 183.8  |
-| Glob of Viscidus (15667)         | ?      | 1.4    | ?     | ?      | 2.24   |
-| Princess Huhuran (15509)         | 0      | 2.32   | ?     | 2.0    | 0      |
-| Emperor Vek'lor (15276)          | 0      | 0      | ?     | 1.88   | 0      |
-| Emperor Vek'nilash (15275)       | IMMUNE | IMMUNE | ?     | IMMUNE | IMMUNE |
-| Ouro (15517)                     | 0      | 3.2    | ?     | 3.0    | 0      |
-| C'thun (15727)                   | 0      | 0      | ?     | 0      | 5.56   |
-| Kurinaxx (15348)                 | 0      | 1.32   | ?     | 0      | 3.04   |
-| General Rajaxx (15341)           | 0.2    | 0      | ?     | 0.04   | 1.72   |
-| Moam (15340)                     | 0.2    | 0.96   | ?     | 0      | 0      |
-| Buru the Gorger (15379)          | ?      | ?      | ?     | ?      | ?      |
-| Ayamiss the Hunter (15369)       | 0      | 2.48   | ?     | 0      | 0.84   |
-| Ossirian the Unscarred (15339)   | 243.08 | 249.32 | ?     | 237.88 | 245.52 |
-| High Priest Venoxis (14507)      | 0.48   | 0.8    | ?     | 0      | 0      |
-| High Priestess Jeklik (14517)    | 0      | 0.16   | ?     | 4.8    | 0.84   |
-| High Priestess Mar'li (14510)    | 5.36   | 0      | ?     | 6.6    | 0      |
-| Bloodlord Mandokir (11382)       | 1.12   | 0      | ?     | 2.68   | 3.76   |
-| Gri'lek (15082)                  | 1.16   | 0      | ?     | 0      | 0      |
-| Hazza'rah (15083)                | 2.8    | 6.36   | ?     | 0      | 0      |
-| Renataki (15084)                 | ?      | ?      | ?     | ?      | ?      |
-| Wushoolay (15085)                | ?      | 42.68  | ?     | ?      | 11.28  |
-| High Priest Thekal (14509)       | 0      | 0      | ?     | 0.48   | 0      |
-| Gahz'ranka (15114)               | 0.36   | 0.16   | ?     | 3.32   | 0      |
-| High Priestess Arlokk (14515)    | 0.96   | 0      | ?     | 0      | 0.56   |
-| Jin'do the Hexxer (11380)        | 1.2    | 1.44   | ?     | 0      | 0      |
-| Hakkar (14834)                   | 0      | 0      | ?     | 8.72   | 0      |
-| Razorgore the Untamed (12435)    | 7.2    | 5.48   | ?     | 0      | 0      |
-| Vaelastrasz the Corrupt (13020)  | 0      | IMMUNE | ?     | 0      | 0      |
-| Broodlord Lashlayer (12017)      | 0      | 0.0    | ?     | 0      | 10.56  |
-| Firemaw (11983)                  | 3.8    | IMMUNE | ?     | 0      | 0      |
-| Ebonroc (14601)                  | 0      | IMMUNE | ?     | 0      | 5.0    |
-| Flamegor (11981)                 | 0      | IMMUNE | ?     | 0.08   | 1.8    |
-| Chromaggus (14020)               | 273.36 | 274.96 | ?     | 274.6  | 274.84 |
-| Nefarian (11583)                 | ?      | ?      | ?     | ?      | 0.92   |
-| Onyxia (10184)                   | 0      | IMMUNE | ?     | 3.16   | 2.48   |
-| Lucifron (12118)                 | 0      | 84.36  | ?     | 0      | 183.88 |
-| Magmadar (11982)                 | 0      | 0      | ?     | 0      | 0      |
-| Gehennas (12259)                 | 0      | 180.4  | ?     | 0      | 83.8   |
-| Garr (12057)                     | 1.88   | 0      | ?     | 0      | 0      |
-| Shazzrah (12264)                 | 213.24 | 106.8  | ?     | 81.88  | 97.28  |
-| Baron Geddon (12056)             | 0      | IMMUNE | ?     | 0      | 2.24   |
-| Golemagg the Incinerator (11988) | 0      | 176.8  | ?     | 0      | 1.08   |
-| Ragnaros (11502)                 | 0      | IMMUNE | ?     | 0      | 0      |
-+----------------------------------+--------+--------+-------+--------+--------+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 Credit to <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> for designing the WCL scraper. You can view some of his Codepen process <a href="https://codepen.io/beef_broccoli/pen/zYqrBxw">here</a>.
