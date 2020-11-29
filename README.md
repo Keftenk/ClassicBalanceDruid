@@ -282,7 +282,7 @@ If you'd like to support the project and what it has been able to offer to you a
 * <b>Classic</b>
     * Guild: Pretty Good
 
-Thank you everyone for being either a direct or indirect influence on such a ambitious project.
+Thank you everyone for being either a direct or indirect influence on such an ambitious project.
 
 In the raven's name,
 
