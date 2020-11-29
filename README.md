@@ -281,7 +281,5 @@ If you'd like to support the project and what it has been able to offer to you a
     * Balor
 * <b>Classic</b>
     * Guild: Pretty Good
-* <b>Other</b>
-    * Guild: Pretty Good
 
 Thank you everyone for being either a direct or indirect influence on such a ambitious project.
