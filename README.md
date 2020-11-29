@@ -228,7 +228,7 @@ A: In Classic the majority of fights will take you no longer than 60 seconds to 
 
 ### Q: How good is Regalia of Undead Cleansing?
 
-A: It's actually not bad. If we're talking about best in slot gear, it falls short. However, it's the best option for trash DPS and will be your best in slot option until you're able to get closer to an optimal set up. The reason that it can be so good is that the specific "damage vs Undead" set bonus double dips. Once for the normal calculation and then a second time for the critical hit calculation (i.e. 1.02 * 1.02).
+A: It's actually not bad. If we're talking about best in slot gear, it falls short for Naxxramas. However, it's the best option for trash DPS and will be your best in slot option until you're able to get closer to an optimal set up for the raid. The reason that it can be so good is that the specific "damage vs Undead" set bonus double dips. Once for the normal calculation and then a second time for the critical hit calculation (i.e. 1.02 * 1.02).
 
   ---
 
@@ -283,3 +283,6 @@ If you'd like to support the project and what it has been able to offer to you a
     * Guild: Pretty Good
 
 Thank you everyone for being either a direct or indirect influence on such a ambitious project.
+
+In the raven's name,
+Keftenk
