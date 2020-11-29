@@ -95,7 +95,7 @@ Part of the work done to understand the class and specilization was to also dete
 In working with <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> and <b>Balor</b> we were able confirm how much resistances each monster through Phase 5 <b><i>roughly</i></b> had. This was achieved by parsing thousands of hits from <b>Warcraft Logs Classic (WCL)</b> and cross referencing it with the spell hit and resistance formulas.
 
 <details>
- <summary><strong>other favorite posts</strong></summary>
+ <summary><strong>Target Spell Resistance Tables</strong></summary>
 
 | Enemy                            | Arcane   | Fire   | Frost   | Nature   | Shadow   |
 | -------------------------------- |:--------:|:------:|:-------:|:--------:|:--------:|
