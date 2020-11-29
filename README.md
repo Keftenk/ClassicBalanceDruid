@@ -52,7 +52,7 @@ Moonkin as well as the Druid talent tree revamp came very late in the progressio
 
   ---
 
-# <a href id="#Spreadsheet"></a>Spreadsheet
+# <a href id="#Spreadsheet"></a>Spreadsheet <img src="Images/sheet_options.png">
 
 <img align="left" src="Images/optimize.png" height="280">
 
