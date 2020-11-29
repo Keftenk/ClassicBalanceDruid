@@ -15,7 +15,7 @@ One of the most advanced World of WarCraft Classic theorycraft resources for Bal
 
 <img align="right" src="Images/moonkin_side.png" height="280">
 
-- Optimize your gear selection through various presets
+- Fully automated to optimize your gear selection through various presets
 - Determine your optimal trinket rotation through the trinket optimizer
 - Emulate specific encounter scenarios (duration, buffs, debuffs, etc.)
 - Gauge your Moonkin Aura DPS contribution to your party and raid
@@ -23,7 +23,6 @@ One of the most advanced World of WarCraft Classic theorycraft resources for Bal
 - Save and publish your gear sets for later use or comparison
 - Utilize high-risk, high-reward tables to maximize your gameplay
 - Add or remove gear which you've collected to optimize any preset specifically for <b><i>YOUR</i></b> in game scenario
-- All automated and no fuss
 - And more...!
 
 This spreadsheet is a resource which is primarily for Excel to utilize the power and functionality of VBA macros. <b>You will not be able to use this tool in Google Docs!</b>
