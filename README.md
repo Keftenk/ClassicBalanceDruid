@@ -263,7 +263,7 @@ If you'd like to support the project and what it has been able to offer to you a
 
 # <a href id="#Credit"></a>Credit
 
-* Nostalrius
+* <b>Nostalrius</b>
     * Viper
     * Daemon
     * Nano
@@ -272,7 +272,7 @@ If you'd like to support the project and what it has been able to offer to you a
     * Guild: NOPE
     * Azuregos
 
-* Theorycrafting
+* <b>Theorycrafting</b>
     * Taladril
     * Shedo
     * Zephan
@@ -281,8 +281,10 @@ If you'd like to support the project and what it has been able to offer to you a
     * Beef Broccoli
     * Balor
 
-* Classic
+* <b>Classic</b>
     * Guild: Pretty Good
 
-* Other
+* <b>Other</b>
     * Guild: Pretty Good
+
+Thank you everyone for being either a direct or indirect influence on such a ambitious project.
