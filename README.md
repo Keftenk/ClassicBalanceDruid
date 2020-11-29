@@ -14,16 +14,15 @@ One of the most advanced World of WarCraft Classic theorycraft resources for Bal
 
 <img align="right" src="Images/moonkin_side.png" height="280">
 
-- Execute test & build commands
-- Bump version (in e.g. `package.json`)
-- [Git commit, tag, push](#git)
-- [Create release at GitHub](#github-releases) or [GitLab](#gitlab-releases)
-- [Generate changelog](#changelog)
-- [Publish to npm](#publish-to-npm)
-- [Manage pre-releases](#manage-pre-releases)
-- [Hooks](#hooks)
-- Extend with [plugins](#plugins)
-- Release from any [CI/CD environment](./docs/ci.md)
+- Optimize your gear selection through various presets
+- Determine your optimal trinket rotation through the trinket optimizer
+- Emulate specific encounter scenarios (duration, buffs, debuffs, etc.)
+- Gauge your Moonkin Aura DPS contribution to your party and raid
+- Visualize how stats from gear, buffs, world buffs, and more adjusts your critical stat weights
+- Save and publish your gear sets for later use or comparison
+- Utilize high-risk, high-reward tables to maximize your gameplay
+- Add or remove gear which you've collected to optimize any preset specifically for <b>YOUR</b> in game scenario
+- And more...!
 
 Use release-it for version management and publish to anywhere with its versatile configuration, a powerful plugin
 system, and use hooks to execute any command you need to test, build, and/or publish your project.
