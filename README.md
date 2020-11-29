@@ -54,9 +54,9 @@ Moonkin as well as the Druid talent tree revamp came very late in the progressio
 
 # <a href id="#Spreadsheet"></a>Spreadsheet
 
-By utilizing VBA macros you may optimize your gear down to the exact value of Hit%, Crit%, INT, Spell Damage, Faction, Classic Phase#, Spell Rank#, Buffs, and Debuffs. This is achievable by clicking "Finding Optimal Gear Set" and "Exact Optimization" features present on the 'Character' sheet. Stat weights will automatically correct and reoptimize using the math derivatives which have been written for the tool. You are also able to optimize your trinkets per durational boss fights if you so wish which then can be fed back into your 'Character' optimization.
-
 <img align="left" src="Images/optimize.png" height="280">
+
+By utilizing VBA macros you may optimize your gear down to the exact value of Hit%, Crit%, INT, Spell Damage, Faction, Classic Phase#, Spell Rank#, Buffs, and Debuffs. This is achievable by clicking "Finding Optimal Gear Set" and "Exact Optimization" features present on the 'Character' sheet. Stat weights will automatically correct and reoptimize using the math derivatives which have been written for the tool. You are also able to optimize your trinkets per durational boss fights if you so wish which then can be fed back into your 'Character' optimization.
 
 The Score function is the culmination of the stat weights via each individual item which has been selected. All of these parameters can be saved and called upon at a later load of the resource.
 
