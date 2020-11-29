@@ -89,7 +89,7 @@ Please understand that the optimization will take an exceedingly long time to ge
 
   ---
 
-# <a href id="#Spell-Penetration"></a>Target Spell Resistance
+# <a href id="#Spell-Penetration"></a>Spell Penetration
 
 Part of the work done to understand the class and specilization was to also determine whether or not <v>Spell Penetration</b> was going to be valuable to us when it became widely available in Phase 5. Up until this point there was very little credible data from Vanilla suggesting that any of the bosses in Classic had any discernable amount of resistances for Arcane, Fire, Frost, Nature, and Shadow.
 
@@ -170,6 +170,47 @@ Access the web application by clicking on the <a href="https://kmmiles.gitlab.io
 
 # <a href id="#FAQ"></a>FAQ
 
-The spreadsheet has also been adapted to a easy to use web based application designed by <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a>. This is a great alternative for any user that isn't able to access Excel. The application doesn't have all of the features of the spreadsheet, but it will generate the same best in slot results if you're looking for a quick dive into what gear you should be acquiring.
+### Q: The DPS looks low, is that accurate?
 
-Access the web application by clicking on the <a href="https://kmmiles.gitlab.io/moonkin-calc/"><img height="20" src="Images/moonfireicon.png"></a>. The link is also at the top of the page and inside the spreadsheet itself. 
+A: Yes. Balance Druid won't shock and dazzle. Our most unique fight opportunities come with Chromaggus's Arcane Invulnerability shimmer which is 400% more damage taken and Loatheb's Fungal Bloom buff which should give you a permanent 100% Critical chance to Starfire, reducing its spell cast permanently to 2.5 seconds.
+
+### Q: Will guilds accept me for my utility with a Battle Ressurection, Innervate, and Moonkin Aura?
+
+A: No, atleast they shouldn't. Battle Ressurection and Innervate are handicap utility mechanics which should not be a selling point. Remember that this is not 2006. Innervate is yours in this day of age, not anyone else's. Moonkin Aura also isn't going to replace a full DPS. It's roughly a ~100 DPS increase to a group of Warlocks in the early stages of the game and roughly a ~150 DPS to a group of Fire Mage's in the later stages.
+
+Moonkin Aura loses its value the more Spell Critical chance your party has. It has great uses for the casters which have died and lost all of their buffs. It will help close the gap between non-world buffed players versus world buffed players for the remainder of the raid.
+
+### Q: Should I be the Druid using Faerie Fire?
+
+A: Optimally? No. However, if you don't have a Feral Bear or Restoration Druid then it should fall onto yourself. Additionally, if you're Alliance and your guild utilizes <b>Improved Exposed Armor</b> you should be pairing your Faerie Fire casts with <b>Holy Sunder</b> via <b><a href="https://classic.wowhead.com/item=7344/torch-of-holy-flame">Torch of the Holy Flame</a></b>.
+
+### Q: Do I really resort to Starfire spam?
+
+A: It's your best source of damage. Wrath has very niche uses during specific occasions. During Phase 1 and Phase 2 we'll have 16 debuffs with no way of filling all 16 slots with optimal effects. At most only 10 can be filled optimally, which leaves 6 open slots. These should theoretically be given to 6 Warlocks and/or 6 Shadow Priests, but if not then there may be room for Moonfire.
+
+### Q: Should I go for 16% Spell Hit as soon as possible?
+
+A: It depends on your play style as well as your raid. If you encounter slower kills then you may want to utilize the extra Spell Hit%. If your fights can be calculated then you may want to utilize the <b>Spell Hit Optimization</b> charts to maximize your DPS potential. Be warned though you will essentially be rolling the dice with RNG. You could either be severely punished or severely rewarded for this style of play. The best answer would to find a medium, which both the spreadsheet and the web application both suggest as optimal.
+
+### Q: Is it worth using a 5% Spell Hit set for trash?
+
+A: I think it is. We're already a poorly built class so we should be doing whatever possible to pump. Utilizing a trash DPS set is roughly a ~10% DPS increase from your previous standing parses.
+
+### Q: Why is Spirit and MP5 not present in your calculation?
+
+A: Spirit and MP5 only have value if you have run out of mana. This isn't only true for Balance Druid, but for any class. These stats are considered handicaps and hinder your ability to do DPS. It is always more mana efficient to downrank your spell versus trying to stack Spirit and MP5, which leaves no room for prioritizing Spirit and MP5.
+
+### Q: Are you sure I will have enough mana for raids?
+
+A: In Classic the majority of fights will take you no longer than 60 seconds to finish. Once your raid has farmed enough gear you'll push over raid bosses like they were trash, i.e. Lucifron dead in 10-15 seconds. There are a few exceptions:
+
+1. Progression during some raids may end up being a bit more mana intensive. In this instance I would educate using R1 Starfire when you've depleted your consumables and Innervate.
+2. Loatheb, Patchwerk, and Sapphiron can be considerably long, to the point where you're just barely finishing the fight with mana. You may have to utilize R1 Starfire in this instance.
+
+### Q: I heard that going Cat Form vs Vaelastrasz the Corrupt is optimal, is this true?
+
+A: Absolutely, at least until you can acquire Rank 7 Starfire with considerable gear. Carrying around a Feral set with Manual Crowd Pummeler is exceptional for this fight in particular due to the unlimited resources. I have pulled near ~1200dps in Phase 3&4 by going Cat in this fight. You don't even need to change talents in order to perform this well.
+
+### Q: How good is Regalia of Undead Cleansing?
+
+A: It's actually not bad. If we're talking about best in slot gear, it falls short. However, it's the best option for trash DPS and will be your best in slot option until you're able to get closer to an optimal set up. The reason that it can be so good is that the specific "damage vs Undead" set bonus double dips. Once for the normal calculation and then a second time for the critical hit calculation (i.e. 1.02 * 1.02).
