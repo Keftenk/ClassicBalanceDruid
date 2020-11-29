@@ -94,6 +94,7 @@ Part of the work done to understand the class and specilization was to also dete
 
 In working with <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> and <b>Balor</b> we were able confirm how much resistances each monster through Phase 5 <b><i>roughly</i></b> had. This was achieved by parsing thousands of hits from <b>Warcraft Logs Classic (WCL)</b> and cross referencing it with the spell hit and resistance formulas.
 
+<p align='center'>
 | Enemy                            | Arcane   | Fire   | Frost   | Nature   | Shadow   |
 | -------------------------------- |:--------:|:------:|:-------:|:--------:|:--------:|
 | The Prophet Skeram (15263)       | 6.76     | 3.4    | ?       | 0        | 4.36     |
@@ -145,5 +146,6 @@ In working with <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> an
 | Baron Geddon (12056)             | 0        | IMMUNE | ?       | 0        | 2.24     |
 | Golemagg the Incinerator (11988) | 0        | 176.8  | ?       | 0        | 1.08     |
 | Ragnaros (11502)                 | 0        | IMMUNE | ?       | 0        | 0        |
+</p>
 
 Credit to <a href="https://github.com/kmmiles"><b>Beef Brocolli</b></a> for designing the WCL scraper. You can view some of his Codepen process <a href="https://codepen.io/beef_broccoli/pen/zYqrBxw">here</a>.
