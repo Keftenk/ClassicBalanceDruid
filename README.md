@@ -54,7 +54,17 @@ Moonkin as well as the Druid talent tree revamp came very late in the progressio
 
 # <a href id="#Spreadsheet"></a>Spreadsheet
 
-test
+The spreadsheet is a resource which is primarily for Excel to utilize the power and functionality of VBA macros. The spreadsheet will not work in Google Docs.
+
+By utilizing VBA macros you may optimize your gear down to the exact value of Hit%, Crit%, INT, Spell Damage, Faction, Classic Phase#, Spell Rank#, Buffs, and Debuffs. This is achievable by clicking "Finding Optimal Gear Set" and "Exact Optimization" features present on the 'Character' sheet. Stat weights will automatically correct and reoptimize using the math derivatives which have been written for the tool. You are also able to optimize your trinkets per durational boss fights if you so wish which then can be fed back into your 'Character' optimization.
+
+The Score function is the culmination of the stat weights via each individual item which has been selected. All of these parameters can be saved and called upon at a later load of the resource.
+
+The spreadsheet also comes equipped with a rough estimation of the DPS that you may be able to produce with the given parameters. Please do note that this is not a perfect simulation of damage and does have a inherent margin of error which comes with it.
+
+If your desire is to to explore a more relative DPS Simulation tool, please consider utilizing Beef Broccoli's Moonkin Calculator Tool.
+
+By the grace of Zephan from the Classic Warlock Discord. We've also constructed a rough estimation of the DPS contribution in which the Moonkin Aura may end up resulting to. Much like the DPS calculations this is not a perfect simulation.
 
 
   ---
